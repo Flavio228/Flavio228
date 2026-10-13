@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Flavio — Aprender construyendo</title><desc id="desc">Cabecera de estilo terminal en azul y violeta.</desc>
+<title id="title">Ideas que se convierten en código.</title><desc id="desc">Cabecera de estilo terminal en azul y violeta.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#171d35"/></linearGradient><linearGradient id="accent"><stop stop-color="#63d6ff"/><stop offset="1" stop-color="#ad95ff"/></linearGradient></defs>
 <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
 <rect x="35" y="35" width="1130" height="290" rx="12" fill="#0d1117" stroke="#30364c"/>
@@ -7,8 +7,8 @@
 <circle cx="59" cy="57" r="6" fill="#ff7b72"/><circle cx="80" cy="57" r="6" fill="#e3b341"/><circle cx="101" cy="57" r="6" fill="#7ee787"/>
 <text x="1125" y="62" fill="#8b949e" text-anchor="end" font-family="monospace" font-size="14">flavio228 / profile</text>
 <text x="70" y="123" fill="#7ee787" font-family="monospace" font-size="18">$ whoami</text>
-<text x="68" y="202" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="66">Hola, soy Flavio.</text>
-<text x="72" y="249" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="25">Aprender construyendo. Mejorar con cada proyecto.</text>
+<text x="68" y="202" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="46">Ideas que se convierten en código.</text>
+<text x="72" y="249" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="25">Flavio · Python &amp; Backend</text>
 <text x="72" y="293" fill="#8b949e" font-family="monospace" font-size="17">ideas → código → proyectos</text>
 <text x="1035" y="204" fill="#ad95ff" opacity="0.7" font-family="monospace" font-size="65">&lt;/&gt;</text>
 </svg>
