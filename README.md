@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Hola, soy Flavio. Aprender construyendo. Mejorar con cada proyecto." width="100%" />
+  <img src="banner.svg" alt="Ideas que se convierten en código. Flavio · Python y Backend." width="100%" />
 </p>
 
 <p align="center">
