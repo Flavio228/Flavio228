@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Ideas que se convierten en código. Flavio · Python y Backend." width="100%" />
+  <img src="https://raw.githubusercontent.com/Flavio228/Flavio228/ded912e3330413d4bb4c7219edcc32167e83953e/banner.svg" alt="Ideas que se convierten en código. Flavio · Python y Backend." width="100%" />
 </p>
 
 <p align="center">
